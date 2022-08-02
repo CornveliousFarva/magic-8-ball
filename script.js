@@ -16,6 +16,11 @@ let randomNumber = Math.floor(Math.random() * 7);
 // Console log of randomNumber
 console.log(randomNumber)
 
+// Variable of eight ball
+let eightBall = ""
+
+
+
 
 
 
