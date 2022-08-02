@@ -6,3 +6,7 @@ userName ? console.log(`Hello, ${userName}!`) : console.log("Hello")
 
 // Variable of a user's question
 let userQuestion = "";
+
+// Console log of the userQuestion variable
+console.log(`${userName} has asked - ${userQuestion}`);
+
