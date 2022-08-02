@@ -47,6 +47,9 @@ switch(randomNumber){
       break
   }
 
+// Console log that prints the Magic Eight Ball's answer
+console.log(`The Magic Eight Ball says ${eightBall}`)
+
 
 
 
