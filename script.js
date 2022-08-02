@@ -10,3 +10,8 @@ let userQuestion = "";
 // Console log of the userQuestion variable
 console.log(`${userName} has asked - ${userQuestion}`);
 
+// Variable of a random number between 0 and 7
+let randomNumber = Math.floor(Math.random() * 7);
+
+
+
