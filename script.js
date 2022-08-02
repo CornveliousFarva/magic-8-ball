@@ -13,5 +13,9 @@ console.log(`${userName} has asked - ${userQuestion}`);
 // Variable of a random number between 0 and 7
 let randomNumber = Math.floor(Math.random() * 7);
 
+// Console log of randomNumber
+console.log(randomNumber)
+
+
 
 
